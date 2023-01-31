@@ -319,7 +319,7 @@ textarea {
 }
 
 .output-content p {
-  text-align: center;
+  text-align: start;
   white-space: pre-line;
   color: rgba(255, 255, 255, 0.5);
 }
