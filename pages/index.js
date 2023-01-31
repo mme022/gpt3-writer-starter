@@ -53,7 +53,7 @@ const Home = () => {
         <div className="prompt-container">
           <textarea
             className="prompt-box"
-            placeholder="start typing here"
+            placeholder="paste a link to your repo here"
             value={userInput}
             onChange={onUserChangedText}
           />
